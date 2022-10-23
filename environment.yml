@@ -1,6 +1,7 @@
 name: app
 dependencies:
   - pandas
+  - plotly
   - streamlit
   - numpy
   - pip
